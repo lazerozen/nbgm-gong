@@ -3,3 +3,7 @@
 ################################################################################
 
 /bin
+/obj
+/packages
+/.vs/NbgmGong/v16/Server/sqlite3
+/.vs/NbgmGong/v16/.suo
